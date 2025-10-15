@@ -7,5 +7,6 @@ public class HelloWorld
         //Patrz Wojtek pushuje Valorant jest super cho grać w czołgi
 
         System.out.println("Conflict test");
+        System.out.println("Conflict test 2");
     }
 }
